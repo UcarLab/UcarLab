@@ -1,18 +1,18 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: Ucar Lab
+description: Home of the Ucar Lab! Where we introduce ourselves and showcase our projects and papers.
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: /lab-website-template
+baseurl: ""
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
+  email: duygu.ucar@jax.org
   google-scholar: ETJoidYAAAAJ
-  github: your-lab
+  github: https://github.com/UcarLab
   twitter: YourLabHandle
   instagram: YourLabHandle
   youtube: YourLabChannel

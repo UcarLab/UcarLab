@@ -4,7 +4,7 @@
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  repo: UcarLab/ucarlab.github.io
   tags:
     - resource
 
@@ -14,7 +14,7 @@
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  repo: UcarLab/ucarlab.github.io
   tags:
     - resource
 
@@ -23,7 +23,7 @@
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  repo: UcarLab/ucarlab.github.io
   tags:
     - resource
     - publication
@@ -33,7 +33,7 @@
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  repo: UcarLab/ucarlab.github.io
   tags:
     - software
 
@@ -42,6 +42,6 @@
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  repo: UcarLab/ucarlab.github.io
   tags:
     - software
