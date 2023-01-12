@@ -2,25 +2,24 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Knowledge is power, use it wisely!
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+The Ucar Lab at Jackson Laboratory for Genomic Medicine studies the dynamics of epigenetic regulation of gene expression in human cells to uncover how these patterns are disrupted with aging in immune cells and with Type 2 Diabetes in pancreatic islet cells. We develop [computational pipelines and methods](https://github.com/UcarLab) to analyze and integrate diverse genomics data from human cells.
 
 {%
   include link.html
   type="github"
   icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
+  text="Our GitHub page"
+  link="UcarLab"
   style="button"
 %}
 {%
   include link.html
   type="docs"
   icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
+  text="Our JAX Web Page"
+  link="https://www.jax.org/research-and-faculty/research-labs/the-ucar-lab"
   style="button"
 %}
 {:.center}
@@ -34,12 +33,11 @@ Spend less time reinventing the wheel, and more time running your lab.
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+See our work on "genomics signatures of immune system and aging", "systems biology and immunology" as well as "Functional genomics in Type-2-Diabetes".
 
 {%
   include link.html
-  link="research"
+  link="publications"
   text="See what we've published"
   icon="fas fa-arrow-right"
   flip=true
@@ -49,15 +47,14 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.jpg"
   link="research"
   title="Our Research"
   text=text
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We have developped computational tools for doublet detetion on snATAC-seq data, detecting unwanted heterogeneity in single-cell RNA-seq datasets, an enrichment test for TF footprinting analyses and more..!
 
 {%
   include link.html
@@ -71,7 +68,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/tools.jpg"
   link="resources"
   title="Our Resources"
   flip=true
@@ -79,7 +76,8 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+We have the greatest team of scientest coming both from computational and biological backgrounds!
 
 {%
   include link.html
@@ -93,11 +91,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/jax-sunset.webp"
   link="team"
   title="Our Team"
   text=text
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. -->

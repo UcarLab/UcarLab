@@ -1,0 +1,28 @@
+{% assign emptyarray = "" | split: "," %}
+
+{% assign id = include.slug | default: include.id | default: "" %}
+{% assign interests = site.interests | default: emptyarray %}
+
+{% assign interest = nil %}
+{% for p in interests %}
+  {% if p.slug == id %}
+    {% assign interest = p %}
+  {% endif %}
+{% endfor %}
+
+<div class="interest_excerpt">
+  {% assign url = interest.url | default: "" %}
+  {% assign title = interest.title | default: "" %}
+  <p>
+    <a href="{{ url | relative_url }}">{{ title }}</a>
+  </p>
+
+  {% assign content = interest.content | default: "" | strip_html | truncate: 500  %}
+
+  {%
+    include feature.html
+    image=interest.image
+    text=interest.content
+  %}
+
+</div>
