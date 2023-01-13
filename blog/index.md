@@ -1,27 +1,84 @@
 ---
-title: Blog
+title: NEWS
 nav:
   order: 4
   tooltip: Musings and miscellany
 ---
 
-# <i class="fas fa-feather-alt"></i>Blog
+# <i class="fas fa-feather-alt"></i>LAB NEWS
 
 {% include section.html %}
 
 {% include search-info.html %}
 
-{% include list.html data="posts" component="post-excerpt" %}
+* March 2021. We published our CZI supported work on single cell level responses of healthy immune cells to stimuli. [Manuscript](https://www.frontiersin.org/articles/10.3389/fimmu.2021.636720/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Immunology&id=636720). [Data](https://data.humancellatlas.org/explore/projects/efea6426-510a-4b60-9a19-277e52bfa815). Congrats Nathan and the team! 
 
-{% include section.html %}
+* May 2020. We published a review on how sex differences in immune aging relate to COVID-19 disease severity and lethality at [Immunity and Aging](https://immunityageing.biomedcentral.com/articles/10.1186/s12979-020-00183-z).
 
-## News
+* December 2019. Our study on sexual dimorphism of immune system aging is accepted for publication at [Nature Communications](https://www.nature.com/articles/s41467-020-14396-9). Congrats Eladio and the team. 
 
-<!-- Twitter embeds from https://publish.twitter.com/ -->
+* November 2019. Neerja joined our lab as a bioinformatician. Welcome Neerja.
 
-<a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/GreeneScientist?ref_src=twsrc%5Etfw">Tweets by GreeneScientist</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-{:.center}
+* September 2019. We welcome three new members to our lab. Welcome Aybuke, Onur, and Alper. 
 
-<a href="https://twitter.com/GreeneScientist?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @GreeneScientist</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a href="https://twitter.com/intent/tweet?screen_name=GreeneScientist&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @GreeneScientist</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-{:.center}
+* September 2019. We are co-organizing a unique and exciting meeting in September to bring together three disciplines: computing, immunology, and aging. Register [here](https://www.jax.org/education-and-learning/education-calendar/2019/september/systems-biology-of-aging)
+
+* June 2019. We welcome four research interns to the lab. Welcome Lori, Onur, Siddhartha, Sadhana. 
+
+* January 2019. We welcome two rotation students from UCHC. Welcome to the lab Ruoyun and Patience!
+
+* January 2019. Our collaborative work with Stitzel Lab on genomic landscapes of EndoC (human pancreatic beta cell line) is published at [Cell Reports](https://www.sciencedirect.com/science/article/pii/S2211124718320436). Congrats Nathan, Eladio, Asa!
+
+* November 2018. Our method to detect correlated hidden variables from single cell transcriptomic data is published at [Scientific Reports](https://www.nature.com/articles/s41598-018-35365-9). Congrats Don!
+
+* November 2018. Our statistical test to post-process TF footprints obtained from ATAC-seq data is published at [Nucleic Acids Research](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1117/5181443). Congrats Ahrim!
+
+* October 2018. Our paper on how neural networks can be used to refine enhancer definitions from clinical ATAC-seq samples is published at Scientific Reports. Congrats Asa and Asli!
+
+* September 2018. Shubham's work that describes chromatin accessibility QTLs in human islets and their relevance to T2D genetics is published at Diabetes. Congrats Shubham!  
+
+* August 2018. We received a grant from Department of Defense (DOD) to study how cellular responses shape epigenomes and transcriptomes of human islets. An exciting collaboration with the Stitzel Lab!
+
+* April 2018. Our lab is among the 85 teams to receive funding from the Chan Zuckerberg Initiative to participate in the Human Cell Atlas project!  Read more about our project here.
+
+* April 2018. Asa successfully defended his PhD thesis and joined our lab as a postdoctoral scholar. Congrats Asa!
+
+* January 2018. News Coverage of NIGMS MIRA award.
+
+* November 2017. Dr. Ucar presented our work on immune system aging at the 10th Annual RECOMB/ISCB Conference on Regulatory & Systems Genomics in New York.
+
+* October 2017. Our work that describes the chromatin connectivity patterns among broad domains and super enhancers is published at Scientific Reports. Congrats Asa! 
+
+* September 2017.Sneha O’neill joined our team. Welcome Sneha!
+
+* September 2017. Our work that describes the epigenomic and transcriptomic features of aTC1/bTC6 cell lines is published at Scientific Reports. Congrats Nathan and Ahrim! 
+
+* September 2017. Our work that describes the chromatin accessibility changes associated with human immune system is published at JEM. Great team effort!
+
+* August 2017. We received JAX Director's Innovation award to study epigenomic changes associated with immune system aging in mice. 
+
+* July 2017. We received NIGMS MIRA award to develop methods to study human immune system aging. 
+
+* June 2017. Our first post to bioRxiv: a statistical model for detecting variation in single cell data.  
+
+* February 2017. Our review paper on the genomics of islet dysfunction is out.  
+
+* November 2016. Ahrim Youn joined our team. Welcome Ahrim!
+
+* October 2016. Guy Karlebach joined our team. Welcome Guy!
+
+* October 2016. Shubham passed his candidacy. Congrats!
+
+* September 2016. Asa passed his candidacy exam. Congrats!
+
+* June 2016. We published our software QuIN! Check it out. Congrats Asa!
+
+* January 2015. Shubham Khetan joined the lab. Welcome!!
+
+* October 2014. Ribbon-cutting for our brand new building! 
+
+* September 2014. Eladio Marquez joined the lab! Welcome Eladio!
+
+* May 2014. Asa Thibodeau joined the lab. Welcome Asa!
+
+* August 2013. Ucar lab has started at Jackson Laboratory for Genomic Medicine.
