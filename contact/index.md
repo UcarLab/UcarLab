@@ -7,25 +7,24 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+We are always on the search for motivated students and postdoctoral scholars with interest in computational epigenomics. To apply, please send your CV, cover letter describing your research goals and their fit with to the Ucar lab to Dr. Ucar. 
 
 {%
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="Email Dr. Ucar"
   tooltip=""
-  link="scrooge@mcduck.com"
+  link="duygu.ucar@jax.org"
   style="button"
 %}
 {%
   include link.html
   type="phone"
   icon=""
-  text="(555) 867-5309"
+  text="(860) 837-2436"
   tooltip=""
-  link="+1-555-867-5309"
+  link="+1-860-837-2436"
   style="button"
 %}
 {%
@@ -33,33 +32,29 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
   type="address"
   icon=""
   text="Google Maps"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  tooltip="The Jackson Laboratory for Genomic Medicine"
+  link="https://www.google.com/maps/place/The+Jackson+Laboratory+For+Genomic+Medicine/@41.7322876,-72.7978885,17z/data=!3m1!4b1!4m5!3m4!1s0x89e7ade7f5d306a9:0xda2d2aa76fef9375!8m2!3d41.7326712!4d-72.7933542"
   style="button"
 %}
 {:.center}
 
 {% include section.html %}
 
-### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
+
+{%
+  include figure.html
+  image="images/jax-sunset.webp"
+  caption="The Jackson Laboratory for Genomic Medicine"
+  link='https://www.jax.org'
+%}
+### <i class="fas fa-mail-bulk"></i>Mailing Address
+[The Jackson Laboratory for Genomic Medicine](https://www.jax.org/)  
+10 Discovery Drive
+Farmington, Connecticut
 {:.center}
 
-{% capture col1 %}
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
-%}
-{% endcapture %}
-{% capture col2 %}
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
-%}
-{% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
+
+
+
+
