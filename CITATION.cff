@@ -1,13 +1,10 @@
-# GitHub citation metadata for lab-website-template itself
+# GitHub citation metadata
 
 cff-version: 1.2.0
 authors:
-  # - family-names: "Rubinetti"
-  #   given-names: "Vincent"
-  #   orcid: "https://orcid.org/0000-0002-4655-3773"
-  # - family-names: "Greene"
-  #   given-names: "Casey"
-  #   orcid: "https://orcid.org/0000-0001-8713-9213"
+  - family-names: "Ucar"
+    given-names: "Duygu"
+    orcid: "https://orcid.org/0000-0002-9772-3066"
 title: "Ucar Lab Website"
 version: 0.0.1
 date-released: 2023-01-10
