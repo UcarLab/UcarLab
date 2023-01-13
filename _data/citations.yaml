@@ -1,6 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.3389/fimmu.2021.636720
+  title: Single Cell Analysis of Blood Mononuclear Cells Stimulated Through Either
+    LPS or Anti-CD3 and Anti-CD28
+  authors:
+  - Nathan Lawlor
+  - Djamel Nehar-Belaid
+  - Jessica D.S. Grassmann
+  - Marlon Stoeckius
+  - Peter Smibert
+  - Michael L. Stitzel
+  - Virginia Pascual
+  - Jacques Banchereau
+  - Adam Williams
+  - Duygu Ucar
+  publisher: Frontiers in Immunology
+  date: '2021-03-17'
+  link: https://doi.org/grmzs3
+  _cache: 99a7cff3d8839d5a960dd6fa745b85a240f66855d41f13a04923ff5388ab6373
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
