@@ -18,68 +18,517 @@
   publisher: Frontiers in Immunology
   date: '2021-03-17'
   link: https://doi.org/grmzs3
-  _cache: 99a7cff3d8839d5a960dd6fa745b85a240f66855d41f13a04923ff5388ab6373
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+  image: https://www.frontiersin.org/files/Articles/636720/fimmu-12-636720-HTML/image_m/fimmu-12-636720-g001.jpg
+  _cache: 7595aa843d651fb3b9316cc715081af454d95ac58f7fb0144bf65d9e97a46f7d
+- id: doi:10.1186/s12979-020-00183-z
+  title: 'The lethal sex gap: COVID-19'
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
-  tags:
-  - knowledge graphs
-  _cache: 2b8aa76c98be2f26481ab15dc135eb446fa9ef6f94af175c9639d1a45d538cf4
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+  - "Eladio J. M\xE1rquez"
+  - Jennifer Trowbridge
+  - George A. Kuchel
+  - Jacques Banchereau
+  - Duygu Ucar
+  publisher: Immunity &amp; Ageing
+  date: '2020-05-21'
+  link: https://doi.org/grmz3w
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12979-020-00183-z/MediaObjects/12979_2020_183_Fig1_HTML.png?as=webp
+  _cache: 0dea58e72fb44c785dcba8a89209d260a670c1d654254ab96eb85630a253429b
+- id: doi:10.1093/bioinformatics/btaa128
+  title: 'V-SVA: an R Shiny application for detecting and annotating hidden sources
+    of variation in single-cell RNA-seq data'
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
+  - Nathan Lawlor
+  - Eladio J Marquez
+  - Donghyung Lee
+  - Duygu Ucar
+  publisher: Bioinformatics
+  date: '2020-03-02'
+  link: https://doi.org/ggvqfv
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7267827/bin/btaa128f1.jpg
+  _cache: e9884e68604af5df6f494cd3d1a3ea8a8916d2d6f295d2e447488624774bcb0c
+- id: doi:10.1038/s41590-020-0643-3
+  title: Sestrins induce natural killer function in senescent-like CD8+ T cells
+  authors:
+  - Branca I. Pereira
+  - Roel P. H. De Maeyer
+  - Luciana P. Covre
+  - Djamel Nehar-Belaid
+  - Alessio Lanna
+  - Sophie Ward
+  - Radu Marches
+  - Emma S. Chambers
+  - Daniel C. O. Gomes
+  - Natalie E. Riddell
+  - Mala K. Maini
+  - Vitor H. Teixeira
+  - Samuel M. Janes
+  - Derek W. Gilroy
+  - Anis Larbi
+  - Neil A. Mabbott
+  - Duygu Ucar
+  - George A. Kuchel
+  - Sian M. Henson
+  - Jessica Strid
+  - Jun H. Lee
+  - Jacques Banchereau
+  - Arne N. Akbar
+  publisher: Nature Immunology
+  date: '2020-03-30'
+  link: https://doi.org/ggvnmk
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41590-020-0643-3/MediaObjects/41590_2020_643_Fig1_HTML.png?as=webp
+  _cache: 7edd3bde515db16ab087bbc6a946e5ddc4b54481caca627c1bd1897703fee00e
+- id: doi:10.1038/s41467-020-14396-9
+  title: Sexual-dimorphism in human immune system aging
+  authors:
+  - "Eladio J. M\xE1rquez"
+  - Cheng-han Chung
+  - Radu Marches
+  - Robert J. Rossi
+  - Djamel Nehar-Belaid
+  - Alper Eroglu
+  - David J. Mellert
+  - George A. Kuchel
+  - Jacques Banchereau
+  - Duygu Ucar
+  publisher: Nature Communications
+  date: '2020-02-06'
+  link: https://doi.org/ggqr6v
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-14396-9/MediaObjects/41467_2020_14396_Fig1_HTML.png?as=webp
+  _cache: e49839a2ac98178ef79231a8c96780b8a5da5089234bc9f24cdd7467ef71b4b4
+- id: 10.1093/nar/gky1117
+  title: 'BiFET: sequencing <u>Bi</u>as-free transcription factor <u>F</u>ootprint
+    <u>E</u>nrichment <u>T</u>est'
+  authors:
+  - Ahrim Youn
+  - Eladio J Marquez
+  - Nathan Lawlor
+  - Michael L Stitzel
+  - Duygu Ucar
+  publisher: Nucleic Acids Research
+  date: '2018-11-14'
+  link: https://doi.org/grm2ch
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/47/2/10.1093_nar_gky1117/1/gky1117fig1.jpeg?Expires=1676662139&Signature=2U9kfdxlMR6sFgfPwSzHKuy1mcTyzZkjjKP0~JkfjDs7ANxs502mUVsm61NlXF4rJdnXexUNbXtUmd15uJteXxjeVSLLHnEbTzySsrVkjXLuzDilkgMt~hD6auP1HgQqAfB5dM6bZ4-fdJduGdBwYGTRkHJOVOQDDNV78jsdW1zl1X8GH0sNdWBoU~rYbs-YrU7TMeJyCxBtepmUW1yZWnoTbdnwu3eSVa-VAn1BdKp50BwiRpvE8Ea5ZkU9TxsCuyo4lSEGVJUYnaMknGVnE89FsSCr7EgxYYfCdTVUfUgyHtJRL-Zr2tNyRk-PMbfnqXOuwua~bbF9uFs06l91aQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  _cache: 8ddece5b79251b588b1bca6872a10f2a8f2b4f1e18885ad5d176478974ce2b7b
+- id: doi:10.1016/j.celrep.2018.12.083
+  title: "Multiomic Profiling Identifies cis-Regulatory Networks Underlying Human\
+    \ Pancreatic \u03B2 Cell Identity and Function"
+  authors:
+  - Nathan Lawlor
+  - "Eladio J. M\xE1rquez"
+  - Peter Orchard
+  - Narisu Narisu
+  - Muhammad Saad Shamim
+  - Asa Thibodeau
+  - Arushi Varshney
+  - Romy Kursawe
+  - Michael R. Erdos
+  - Matt Kanke
+  - Huiya Gu
+  - Evgenia Pak
+  - Amalia Dutra
+  - Sheikh Russell
+  - Xingwang Li
+  - Emaly Piecuch
+  - Oscar Luo
+  - Peter S. Chines
+  - Christian Fuchbserger
+  - Praveen Sethupathy
+  - Aviva Presser Aiden
+  - Yijun Ruan
+  - Erez Lieberman Aiden
+  - Francis S. Collins
+  - Duygu Ucar
+  - Stephen C.J. Parker
+  - Michael L. Stitzel
+  publisher: Cell Reports
+  date: '2019-01-01'
+  link: https://doi.org/gftmnb
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2211124718320436-fx1.jpg
+  _cache: 042540fcd3f45168d5e15bf785a6cf8d4487c1d6f0d5e017ea52041e929521f9
+- id: doi:10.1038/s41598-018-35365-9
+  title: Detection of correlated hidden factors from single cell transcriptomes using
+    Iteratively Adjusted-SVA (IA-SVA)
+  authors:
+  - Donghyung Lee
+  - Anthony Cheng
+  - Nathan Lawlor
+  - Mohan Bolisetty
+  - Duygu Ucar
+  publisher: Scientific Reports
+  date: '2018-11-19'
+  link: https://doi.org/gpmq6n
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-018-35365-9/MediaObjects/41598_2018_35365_Fig1_HTML.png?as=webp
+  _cache: 6228c66a4251913e3b18c3024715ae1148780cd3746589cd445f00929fd8d16d
+- id: doi:10.1038/s41598-018-34420-9
+  title: A neural network based model effectively predicts enhancers from clinical
+    ATAC-seq samples
+  authors:
+  - Asa Thibodeau
+  - Asli Uyar
+  - Shubham Khetan
+  - Michael L. Stitzel
+  - Duygu Ucar
+  publisher: Scientific Reports
+  date: '2018-10-30'
+  link: https://doi.org/gfk9jx
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-018-34420-9/MediaObjects/41598_2018_34420_Fig1_HTML.png?as=webp
+  _cache: 9a928915b945fa358dd2631a7e088da2f756417c4b8884f05c714d2a01e7d1e4
+- id: doi:10.2337/db18-0393
+  title: "Type 2 Diabetes\u2013Associated Genetic Variants Regulate Chromatin Accessibility\
+    \ in Human Islets"
+  authors:
+  - Shubham Khetan
+  - Romy Kursawe
+  - Ahrim Youn
+  - Nathan Lawlor
+  - Alexandria Jillette
+  - Eladio J. Marquez
+  - Duygu Ucar
+  - Michael L. Stitzel
+  publisher: Diabetes
+  date: '2018-09-04'
+  link: https://doi.org/gd6n4h
+  image: https://ada.silverchair-cdn.com/ada/content_public/journal/diabetes/67/11/10.2337_db18-0393/2/m_db180393f1.jpeg?Expires=1674572482&Signature=B9-rDG3IpJyfE4BaPrCAshsZmUFHsvAf5G7oTBaAki6nXJDPIqXXvxuK-ZET3h4G-q2cObRdTbZAl6-tap3hmF2cylNOF51Bi0yZRxpFmkEeTiBeARuAWYDeXZMwL15zDu2gYRwlQ4r4oo8lGIQOcVpgeWt~t9OuWUrOYb43cq0g9Nqe4dzVcLmeL13r~Cd-7cIr1PvPDGUCZKe7xWI-d6iVQDL62CvHirnhyAwSafcvsNvvtC6znHCZfPoijTrSz9As~ndabTpHD6KLlTycXa55Tq8b45WUl4C6wtxDNxhuep97PAFdmIWUDp5JJlz96rEcoXCc-1i37QuLf5kTQQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  _cache: 020bd05511275a38bf401d90cf9131155d007579bf9db1d7e16075b6bb15514e
+- id: doi:10.1016/j.ajhg.2018.02.020
+  title: A Common Type 2 Diabetes Risk Variant Potentiates Activity of an Evolutionarily
+    Conserved Islet Stretch Enhancer and Increases C2CD4A and C2CD4B Expression
+  authors:
+  - Ina Kycia
+  - Brooke N. Wolford
+  - Jeroen R. Huyghe
+  - Christian Fuchsberger
+  - Swarooparani Vadlamudi
+  - Romy Kursawe
+  - Ryan P. Welch
+  - "Ricardo d\u2019Oliveira Albanus"
+  - Asli Uyar
+  - Shubham Khetan
+  - Nathan Lawlor
+  - Mohan Bolisetty
+  - Anubhuti Mathur
+  - Johanna Kuusisto
+  - Markku Laakso
+  - Duygu Ucar
+  - Karen L. Mohlke
+  - Michael Boehnke
+  - Francis S. Collins
+  - Stephen C.J. Parker
+  - Michael L. Stitzel
+  publisher: The American Journal of Human Genetics
+  date: '2018-04-01'
+  link: https://doi.org/gdcx7h
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0002929718300880-gr1.jpg
+  _cache: 0abf037413b22bb8adddcb4b640b7368e67aad5973594911f8328a4676ffbc95
+- id: doi:10.7717/peerj.4040
+  title: 'I-ATAC: interactive pipeline for the management and pre-processing of ATAC-seq
+    samples'
+  authors:
+  - Zeeshan Ahmed
+  - Duygu Ucar
+  publisher: PeerJ
+  date: '2017-11-22'
+  link: https://doi.org/gcmnfv
+  image: https://dfzljdn9uc3pi.cloudfront.net/2017/4040/1/fig-1-2x.jpg
+  _cache: 66c238bf0d577593dd03afcd40b968a41b9d69fcaefa203cbe3aced6ec45c3a3
+- id: doi:10.1016/B978-0-12-811060-7.00001-2
+  title: Aging Epigenetics
+  authors:
+  - Duygu Ucar
+  - "B\xE9r\xE9nice A. Benayoun"
+  publisher: Epigenetics of Aging and Longevity
+  date: '2018-01-01'
+  link: https://doi.org/grm2c2
+  image: null
+  _cache: e2cdd487f73d755755b43d1ae3aabd6b724dc5ad5ebae0771e8c322cfb1fa24d
+- id: DOI:10.1038/s41598-017-14389-7
+  title: Chromatin interaction networks revealed unique connectivity patterns of broad
+    H3K4me3 domains and super enhancers in 3D chromatin
+  authors:
+  - Asa Thibodeau
+  - "Eladio J. M\xE1rquez"
+  - Dong-Guk Shin
+  - Paola Vera-Licona
+  - Duygu Ucar
+  publisher: Scientific Reports
+  date: '2017-10-31'
+  link: https://doi.org/gcjsrq
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-017-14389-7/MediaObjects/41598_2017_14389_Fig1_HTML.jpg?as=webp
+  _cache: 7c87a02a52f1c1caf8ead10876a7dab8b246f5c02c59b2afe239e1da54c0296e
+- id: DOI:10.1038/s41598-017-12335-1
+  title: Alpha TC1 and Beta-TC-6 genomic profiling uncovers both shared and distinct
+    transcriptional regulatory features with their primary islet counterparts
+  authors:
+  - Nathan Lawlor
+  - Ahrim Youn
+  - Romy Kursawe
+  - Duygu Ucar
+  - Michael L. Stitzel
+  publisher: Scientific Reports
+  date: '2017-09-20'
+  link: https://doi.org/gbzxf3
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-017-12335-1/MediaObjects/41598_2017_12335_Fig1_HTML.jpg?as=webp
+  _cache: 87bb93af6d1d233f4686b042a95c3ea307c13dc922281559fccd79eb591246ee
+- id: 10.1084/jem.20170416
+  title: The chromatin accessibility signature of human immune aging stems from CD8+
+    T cells
+  authors:
+  - Duygu Ucar
+  - "Eladio J. M\xE1rquez"
+  - Cheng-Han Chung
+  - Radu Marches
+  - Robert J. Rossi
+  - Asli Uyar
+  - Te-Chia Wu
+  - Joshy George
+  - Michael L. Stitzel
+  - A. Karolina Palucka
+  - George A. Kuchel
+  - Jacques Banchereau
+  publisher: Journal of Experimental Medicine
+  date: '2017-09-13'
+  link: https://doi.org/gb2ptm
+  image: https://cdn.rupress.org/rup/content_public/journal/jem/214/10/10.1084_jem.20170416/4/m_jem_20170416_fig1.jpeg?Expires=1675242187&Signature=wDmcozl6d-Vsqkj8SKFDwlAz-GS8QfBcFrHmg5n--GWifH13NhjLP8MfhmDy-~8XOZnK5MNS1SVOCXsl-KFobfJ8YIJpXNCQxylhQqTPTJh8ypoQNtlYGAgQyPjlOBDoPlaqA3-DOxHgQS6SlQM-ov-rQcPFWBvwOE3Nreqp4aXLkiwS7zYdeYn8qGpgsXuWsCY7-aUAgVo2tUE3iillwD006psDggj7CBXRp2i4poOwNUrzpQQJH1iOSA5PK-hnYfQLUz6X1QWiziNOsxmjXj62lEXmXT87WLEOBwDWdUmDDvwV5G9Q3UgYssWDyE1PiCx2mvZxNB7fqMm37d5l3Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  _cache: afa1b9510405c17d2e05d0757ba922c33b8156c043978a89c6258ae2ddf9b579
+- id: 10.1016/j.tig.2017.01.010
+  title: Genomics of Islet (Dys)function and Type 2 Diabetes
+  authors:
+  - Nathan Lawlor
+  - Shubham Khetan
+  - Duygu Ucar
+  - Michael L. Stitzel
+  publisher: Trends in Genetics
+  date: '2017-04-01'
+  link: https://doi.org/gddsff
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0168952517300215-gr1.jpg
+  _cache: 355a7383c3519ec83ca8d446af73f064901600583d835ba2b6483c7073b2ab01
+- id: DOI:10.1186/s13062-016-0148-z
+  title: Computational inference of a genomic pluripotency signature in human and
+    mouse stem cells
+  authors:
+  - Esra Kurum
+  - "B\xE9r\xE9nice A. Benayoun"
+  - Ankit Malhotra
+  - Joshy George
+  - Duygu Ucar
+  publisher: Biology Direct
+  date: '2016-09-17'
+  link: https://doi.org/grm2df
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13062-016-0148-z/MediaObjects/13062_2016_148_Fig1_HTML.gif?as=webp
+  _cache: cffdf9a99a5b14e529cbaee6d64a3386125f5ea656a280a261d90b672b35cf7b
+- id: DOI:10.1038/ncomms12166
+  title: Leukaemia cell of origin identified by chromatin landscape of bulk tumour
+    cells
+  authors:
+  - Joshy George
+  - Asli Uyar
+  - Kira Young
+  - Lauren Kuffler
+  - Kaiden Waldron-Francis
+  - Eladio Marquez
+  - Duygu Ucar
+  - Jennifer J. Trowbridge
+  publisher: Nature Communications
+  date: '2016-07-11'
+  link: https://doi.org/f8wzct
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fncomms12166/MediaObjects/41467_2016_Article_BFncomms12166_Fig1_HTML.jpg?as=webp
+  _cache: 12a11e328853bea7783a6d95c8bb43d4de3912835837939e6c44dde990e34e49
+- id: doi:10.1371/journal.pcbi.1004809
+  title: 'QuIN: A Web Server for Querying and Visualizing Chromatin Interaction Networks'
+  authors:
+  - Asa Thibodeau
+  - "Eladio J. M\xE1rquez"
+  - Oscar Luo
+  - Yijun Ruan
+  - Francesca Menghi
+  - Dong-Guk Shin
+  - Michael L. Stitzel
+  - Paola Vera-Licona
+  - Duygu Ucar
   publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  _cache: 189b56e366896b6a90ae8d64fc4e605797d2bdd07674653d81ae533b2f1e4672
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  date: '2016-06-23'
+  link: https://doi.org/grm2dg
+  image: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pcbi.1004809/1/pcbi.1004809.g002.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20230113%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230113T202608Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=66fb2af5e91235b414225f1b443d405b365315759941d10fb9c3a5a5db31885bb88790283265d53688b3588fe97ee5c004df27be93e892f32d9dc916fc9654ae43919376269cfbf78981e904cb0fc71a9b631cc838cca42a2384616107d0f5ef9568e030884a7eefdbc2bea01e104fa67b76a38543a4febba2a7a8ddafc76d724ea022d13ac0b6c5750ef677b83d387a2dce4ea80460769f29f2997cb29668bf1f98f0fdc8e47b49dc07ca036d65c3c1b8006993d2b1349bb771400dab718c107b4009190ead57bcaa41cf1d4dd6d3209c84e8fcc9ad27d10d3ebdc30632670d3ea840ca3a43161d7e540535d436b6256dc715a73d20b6b6cd8b0e721bbbaf56
+  _cache: 062c908fadd8b57c1db30935328e13c484ada3d573c312b7937b49bf4743900a
+- id: doi:10.1073/pnas.1520010113
+  title: The tandem duplicator phenotype as a distinct genomic configuration in cancer
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-  - type: preprint
-    link: https://doi.org/10.7287/peerj.preprints.3100v1
-  - type: manubot
-    link: https://greenelab.github.io/scihub-manuscript/
-  - type: source
-    link: https://github.com/greenelab/scihub-manuscript
-    text: Manuscript source
-  - type: source
-    link: https://github.com/greenelab/scihub
-    text: Analyses source
-  _cache: 483a564e9ddf847e6372cafb31de4673771c3e4da664c0d86a7ea7c38c20318d
+  - Francesca Menghi
+  - Koichiro Inaki
+  - XingYi Woo
+  - Pooja A. Kumar
+  - Krzysztof R. Grzeda
+  - Ankit Malhotra
+  - Vinod Yadav
+  - Hyunsoo Kim
+  - Eladio J. Marquez
+  - Duygu Ucar
+  - Phung T. Shreckengast
+  - Joel P. Wagner
+  - George MacIntyre
+  - Krishna R. Murthy Karuturi
+  - Ralph Scully
+  - James Keck
+  - Jeffrey H. Chuang
+  - Edison T. Liu
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2016-04-07'
+  link: https://doi.org/grm2dh
+  image: https://www.pnas.org/cms/10.1073/pnas.1520010113/asset/e29ae6ac-b730-4d22-bcdf-1a7296def06c/assets/graphic/pnas.1520010113fig01.jpeg
+  _cache: 0b16a89a22cfad056a1cfce24ccfbbb4a2227ff7bb6d5f2ceaffb502c9cd5dc0
+- id: DOI:10.7717/peerj.1750
+  title: Computational inference of H3K4me3 and H3K27ac domain length
+  authors:
+  - Julian Zubek
+  - Michael L. Stitzel
+  - Duygu Ucar
+  - Dariusz M. Plewczynski
+  publisher: PeerJ
+  date: '2016-03-14'
+  link: https://doi.org/grm2dj
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/4793332/bin/peerj-04-1750-g001.jpg
+  _cache: beedea3ea3f718926ec491c8dbeae23c4ca81905ad2170b9860801d830933ce2
+- id: doi:10.1007/s11892-015-0635-0
+  title: 'Transcriptional Regulation of the Pancreatic Islet: Implications for Islet
+    Function'
+  authors:
+  - Michael L. Stitzel
+  - Ina Kycia
+  - Romy Kursawe
+  - Duygu Ucar
+  publisher: Current Diabetes Reports
+  date: '2015-08-14'
+  link: https://doi.org/f8r6nw
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/4593392/bin/nihms-720991-f0001.jpg
+  _cache: 3c0f048f16fd88dfe3df5e3bb010642ee15eaa6f4cd4b6740d015023cee51217
+- id: doi:10.2217/epi.14.87
+  title: Cell-specific gene promoters are marked by broader spans of H3K4me3 and are
+    associated with robust gene expression patterns
+  authors:
+  - Duygu Ucar
+  - Dashzeveg Bayarsaihan
+  publisher: Epigenomics
+  date: '2015-04-01'
+  link: https://doi.org/grm2dk
+  image: null
+  _cache: 98ef7554675201b69ac313ffeb08f8fc759bbb5f4f85ea83f7a3052fa7d8f727
+- id: doi:10.1016/j.cell.2014.06.027
+  title: H3K4me3 Breadth Is Linked to Cell Identity and Transcriptional Consistency
+  authors:
+  - "B\xE9r\xE9nice\_A. Benayoun"
+  - "Elizabeth\_A. Pollina"
+  - Duygu Ucar
+  - Salah Mahmoudi
+  - Kalpana Karra
+  - "Edith\_D. Wong"
+  - Keerthana Devarajan
+  - "Aaron\_C. Daugherty"
+  - "Anshul\_B. Kundaje"
+  - Elena Mancini
+  - "Benjamin\_C. Hitz"
+  - Rakhi Gupta
+  - "Thomas\_A. Rando"
+  - "Julie\_C. Baker"
+  - "Michael\_P. Snyder"
+  - "J.\_Michael Cherry"
+  - Anne Brunet
+  publisher: Cell
+  date: '2014-07-01'
+  link: https://doi.org/f6d67c
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0092867414008174-fx1.jpg
+  _cache: a0b7b0057bd4b0d7651e4326807d1927c4a4a7e556252ce73a392ff8b83834e2
+- id: doi:10.1016/j.celrep.2013.06.035
+  title: FOXO3 Shares Common Targets with ASCL1 Genome-wide and Inhibits ASCL1-Dependent
+    Neurogenesis
+  authors:
+  - "Ashley\_E. Webb"
+  - "Elizabeth\_A. Pollina"
+  - Thomas Vierbuchen
+  - "Noelia Urb\xE1n"
+  - Duygu Ucar
+  - "Dena\_S. Leeman"
+  - Ben Martynoga
+  - Madhavi Sewak
+  - "Thomas\_A. Rando"
+  - "Fran\xE7ois Guillemot"
+  - Marius Wernig
+  - Anne Brunet
+  publisher: Cell Reports
+  date: '2013-08-01'
+  link: https://doi.org/f5d57z
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2211124713003276-fx1.jpg
+  _cache: f5c6642d4b1384e7ddac378b01c461ba0a0f1d79a557c4f6502d884d388a107e
+- id: DOI:10.1038/ncb2735
+  title: Expansion of oligodendrocyte progenitor cells following SIRT1 inactivation
+    in the adult brain
+  authors:
+  - Victoria A. Rafalski
+  - Peggy P. Ho
+  - Jamie O. Brett
+  - Duygu Ucar
+  - Jason C. Dugas
+  - Elizabeth A. Pollina
+  - Lionel M. L. Chow
+  - Adiljan Ibrahim
+  - Suzanne J. Baker
+  - Ben A. Barres
+  - Lawrence Steinman
+  - Anne Brunet
+  publisher: Nature Cell Biology
+  date: '2013-05-05'
+  link: https://doi.org/f4zxcm
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fncb2735/MediaObjects/41556_2013_Article_BFncb2735_Fig1_HTML.jpg?as=webp
+  _cache: a0d52ce0347df43d930072b066adac5b04d7cf49f57476aeacfb3d7d678b08fe
+- id: doi:10.1093/bioinformatics/btq248
+  title: Discover regulatory DNA elements using chromatin signatures and artificial
+    neural network
+  authors:
+  - Hiram A. Firpi
+  - Duygu Ucar
+  - Kai Tan
+  publisher: Bioinformatics
+  date: '2010-05-07'
+  link: https://doi.org/fq8b3m
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/26/13/10.1093_bioinformatics_btq248/1/btq248f1.jpeg?Expires=1676666404&Signature=pb7Ip3i90l-4qgllGnRlIW~n-8UMVkIT7C1ZQp0lXRoBt0p6U6eo7LvyeDISPIjtmDBs8zJLYYWMRIGQoCx5UpjVUO8gE0PypZ2Evzl86UUz3cF6k~p3xJ6O6LOTtRZun6Gga8~n4vc~3pjGOo01g3OqPdbj~lrdWSRCTQIYIvqKzZcRu7Bl64F~jHU7MMlXbxfuNKwVYekCwK73J2V7T25-6ntb-5gOcnXtlbLX5nSnq7r5tn9nQmzmlpUPW4oRDqW~P4HNp79k7WpwtP3kkxjPnfz-vHB1BE6E4Kaul8wFp9jn9XjlS7p69sduja0Kz~m5wuVV9IU8-2gGBuPeiw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  _cache: 403756731f18491995436327a617df2eac318f68a792197c88318f0422e6287e
+- id: doi:10.1093/nar/gkr016
+  title: Combinatorial chromatin modification patterns in the human genome revealed
+    by subspace clustering
+  authors:
+  - Duygu Ucar
+  - Qingyang Hu
+  - Kai Tan
+  publisher: Nucleic Acids Research
+  date: '2011-01-25'
+  link: https://doi.org/bm3tcn
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/3105409/bin/gkr016f1.jpg
+  _cache: 5d7bb98c8750ad4214ed3fe314cbd5c83b7065288f6155291b7f781c5c87dcb9
+- id: DOI:10.1093/bioinformatics/btp213
+  title: Predicting functionality of protein-DNA interactions by integrating diverse
+    evidence
+  authors:
+  - D. Ucar
+  - A. Beyer
+  - S. Parthasarathy
+  - C. T. Workman
+  publisher: Bioinformatics
+  date: '2009-05-28'
+  link: https://doi.org/cb3g86
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/2687967/bin/btp213f1.jpg
+  _cache: 842c0a71dc06dc3c6fdaada7ce669edc43ef4d9239cf3b84142122c1dd062137
+- id: doi:10.1093/bioinformatics/btm423
+  title: 'Construction of a reference gene association network from multiple profiling
+    data: application to data analysis'
+  authors:
+  - Duygu Ucar
+  - Isaac Neuhaus
+  - Petra Ross-MacDonald
+  - Charles Tilford
+  - Srinivasan Parthasarathy
+  - Nathan Siemers
+  - Rui-Ru Ji
+  publisher: Bioinformatics
+  date: '2007-09-10'
+  link: https://doi.org/bvk48s
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/23/20/10.1093_bioinformatics_btm423/2/m_btm423f1.jpeg?Expires=1676666515&Signature=W5YsTgtEoVTCgN0YADSk2Qy~wrcxJZzB8wnv6e3hwyrHTmePzNKPW~pRYoBz-QMpZ7oPNXSaX1-f7jIx95ebzEA19THMzyYmvEp8lDtbwHVe82UXv8kSPtHk3mONErAf7MutfglUVuJU5fyUZRi7q047uPNYZRgcv0vGmVG5CtTJ3if91ujAxJKc6IGQfneA4RV5VmbPiZ2Wb2OnoMRu6JrDvip752s3aPSzZqCO9bjC6B0beJlNIKf7biebJL9zxiXUeoQDgyeYMmarTC0VG4UI8TjQHcoCH6yfMIkp1p7H5HmTtWYlKIJESMcWL53ovinmnExdOulvL3n5yFhnKg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  _cache: dedb1949e2e4bf3bffc98d411f3d65b52a973562931d31c0fc00c032b9fe354b
