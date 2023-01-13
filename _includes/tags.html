@@ -9,21 +9,19 @@
   {%- endif -%}
 {%- endfor -%}
 
-{%- assign repo = include.repo | strip -%}
-{%- if repo == "" -%}
-  {%- assign repo = nil -%}
-{%- endif -%}
+
 {%- assign link = include.link | default: page.dir | absolute_url -%}
 
-{%- if tags.size > 0 or repo -%}
-  <div class="tags" {% if repo %}data-repo="{{ repo }}"{% endif %} {% if link %}data-link="{{ link }}"{% endif %}>
+{%- if tags.size > 0-%}
+  <div class="tags">
     {%- for tag in tags -%}
+    {% assign text_and_url_tip = tag | split: '~' %}
       <a
-        {% if link %}href='{{ link }}?search="tag: {{ tag }}"'{% endif %}
+        href='{{ text_and_url_tip[1] }}'
         class="tag"
-        data-tooltip='Show items with the tag "{{ tag }}"'
+        data-tooltip='{{ text_url_tip[2] }}'
       >
-        {{- tag -}}
+        {{- text_and_url_tip[0] -}}
       </a>
     {%- endfor -%}
   </div>

@@ -1,47 +1,40 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: IA-SVA
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: UcarLab/ucarlab.github.io
-  tags:
-    - resource
+  link: https://github.com/UcarLab/IA-SVA
+  description: "IA-SVA: A statistical method to uncover hidden and correlated sources of variation from single cell RNA-seq data."
+  tags: 
+    - Source Code~https://github.com/UcarLab/IA-SVA~Code
+    - Bioconducter~https://bioconductor.org/packages/devel/bioc/html/iasva.html
+    - Manuscript~https://www.nature.com/articles/s41598-018-35365-9
+    - R Shiny App~https://vsva.jax.org/
+  
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: UcarLab/ucarlab.github.io
-  tags:
-    - resource
-
-- title: Cool Tutorial
+- title: QUIN
   group: more
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: UcarLab/ucarlab.github.io
-  tags:
-    - resource
-    - publication
+  description: QuIN is developed in Java and JavaScript, utilizing an Apache Tomcat web server and MySQL database and the source code is available under the GPLV3 license."
+  tags: 
+    - Source Code~https://github.com/UcarLab/QuIN/
+    - Web Server~http://quin.jax.org/
+    - Manuscript~https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004809
 
-- title: Cool Web App
+- title: BiFET
   group: more
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: UcarLab/ucarlab.github.io
-  tags:
-    - software
+  description: A test designed to reduce the false positive enrichments in TF footprinting analyses.
+  tags: 
+    - Source Code~https://github.com/UcarLab/BiFET
+    - Bioconducter~https://bioconductor.org/packages/devel/bioc/html/BiFET.html
+    - Manuscript~https://pubmed.ncbi.nlm.nih.gov/30428075/
 
-- title: Cool Web Server
+- title: PEAS
   group: more
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: UcarLab/ucarlab.github.io
-  tags:
-    - software
+  description: "Predicting enhancers from ATAC-seq: A neural network method to predict enhancers from ATAC-seq data an enrichment test for TF footprinting analyses."
+  tags: 
+    - Source Code~https://github.com/UcarLab/PEAS
+    - Manuscript~https://www.nature.com/articles/s41598-018-34420-9

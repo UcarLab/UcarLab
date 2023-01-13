@@ -7,10 +7,8 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We have the greatest team of scientest coming both from computational and biological 
+backgrounds working on various challenging problems that require high level knowledge of biology, computer science and bioinformatics.
 
 {% include section.html %}
 
@@ -24,6 +22,12 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include list.html
   data="members"
   component="portrait"
+  filters="role: postdoc"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: phd"
 %}
 {%
@@ -32,24 +36,36 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   component="portrait"
   filters="role: programmer"
 %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: staff"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: undergrad"
+%}
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+ Join us and make a difference!
+ {:.center}
 
 {% include section.html %}
 
 ## Join
 
-#### Post Dogtoral Researcher
+#### Bioinformatics Analyst II
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Bioinformatics Analysts work under the supervision of the PI, research scientist, or department head, to analyze complex bioinformatics research. Typical projects include, but are not limited to: all classes of High Throughput Sequence (HTS) data analysis (DNA Seq, mRNA Seq, ChIP Seq, micro RNA Seq etc); experimental design; data integration; algorithm development; statistical analysis of data; development of workflows and implementing new analytical methods; evaluation/testing of software/database systems, analytical tools and technology; user interface, data, and functional requirements for software/database systems involving significant biological content; and delivering training to the research community.  Characteristic distinctions from level I to level III include increased ability to work independently, increased breath of bioinformatics knowledge and tools, and increased understanding of the biological research domains. Level III analysts may pursue limited co-pi collaborations with research faculty. Senior/Lead supervises other bioinformatics employees and leads and manages bioinformatics projects, and may serve as co-pi to research faculty.
 
-- 3+ (dog) years experience managing bone portfolios
-- Strong desire to learn tricks and go on walkies
-- Aptitude to sit and stay
+- MS or PhD degree in Statistics, Computer Science or relevant quantitative sciences.
+- Strong desire to learn....
+- Aptitude to...
 
 {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
 {:.center}

@@ -8,6 +8,7 @@ nav:
 # <i class="fas fa-microscope"></i>Scientific Publications
 
 You can see a list of recent publications here.
+{:.center}
 
 {% include section.html %}
 

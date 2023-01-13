@@ -18,6 +18,10 @@ programmer:
   icon: fas fa-code
   text: Programmer
 
+staff:
+  icon: fas fa-user
+  text: staff
+
 mascot:
   icon: fas fa-dog
   text: Mascot
