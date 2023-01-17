@@ -1,9 +1,8 @@
 ---
 name: Siddhartha Sharma
 image: ""
-description: Research Associate
+description: Research Data Analyst
 role: staff
-group: alum
 ---
 M.S. Georgia Institute of Technology,  Bioinformatics
 

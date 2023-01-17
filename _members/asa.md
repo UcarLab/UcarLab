@@ -1,9 +1,8 @@
 ---
 name: Asa Thibodeau, PhD
 image: ""
-description: Postdoctoral Associate
+description: Associate Computational Scientist
 role: postdoc
-group: alum
 ---
 
 PhD: University of Connecticut, Computer Science
