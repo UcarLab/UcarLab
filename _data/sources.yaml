@@ -68,7 +68,7 @@
 
 # QuIN: A Web Server for Querying and Visualizing Chromatin Interaction Networks
 - id: doi:10.1371/journal.pcbi.1004809
-  image: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pcbi.1004809/1/pcbi.1004809.g002.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20230113%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230113T202608Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=66fb2af5e91235b414225f1b443d405b365315759941d10fb9c3a5a5db31885bb88790283265d53688b3588fe97ee5c004df27be93e892f32d9dc916fc9654ae43919376269cfbf78981e904cb0fc71a9b631cc838cca42a2384616107d0f5ef9568e030884a7eefdbc2bea01e104fa67b76a38543a4febba2a7a8ddafc76d724ea022d13ac0b6c5750ef677b83d387a2dce4ea80460769f29f2997cb29668bf1f98f0fdc8e47b49dc07ca036d65c3c1b8006993d2b1349bb771400dab718c107b4009190ead57bcaa41cf1d4dd6d3209c84e8fcc9ad27d10d3ebdc30632670d3ea840ca3a43161d7e540535d436b6256dc715a73d20b6b6cd8b0e721bbbaf56
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?download&size=large&id=10.1371/journal.pcbi.1004809.g001
 
 # The tandem duplicator phenotype as a distinct genomic configuration in cancer
 - id: doi:10.1073/pnas.1520010113
