@@ -532,3 +532,41 @@
   link: https://doi.org/bvk48s
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/23/20/10.1093_bioinformatics_btm423/2/m_btm423f1.jpeg?Expires=1676666515&Signature=W5YsTgtEoVTCgN0YADSk2Qy~wrcxJZzB8wnv6e3hwyrHTmePzNKPW~pRYoBz-QMpZ7oPNXSaX1-f7jIx95ebzEA19THMzyYmvEp8lDtbwHVe82UXv8kSPtHk3mONErAf7MutfglUVuJU5fyUZRi7q047uPNYZRgcv0vGmVG5CtTJ3if91ujAxJKc6IGQfneA4RV5VmbPiZ2Wb2OnoMRu6JrDvip752s3aPSzZqCO9bjC6B0beJlNIKf7biebJL9zxiXUeoQDgyeYMmarTC0VG4UI8TjQHcoCH6yfMIkp1p7H5HmTtWYlKIJESMcWL53ovinmnExdOulvL3n5yFhnKg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   _cache: dedb1949e2e4bf3bffc98d411f3d65b52a973562931d31c0fc00c032b9fe354b
+- id: doi:10.1186/s13059-021-02469-x
+  title: 'AMULET: a novel read count-based method for effective multiplet detection
+    from single nucleus ATAC-seq data'
+  authors:
+  - Asa Thibodeau
+  - Alper Eroglu
+  - Christopher S. McGinnis
+  - Nathan Lawlor
+  - Djamel Nehar-Belaid
+  - Romy Kursawe
+  - Radu Marches
+  - Daniel N. Conrad
+  - George A. Kuchel
+  - Zev J. Gartner
+  - Jacques Banchereau
+  - Michael L. Stitzel
+  - A. Ercument Cicek
+  - Duygu Ucar
+  publisher: Genome Biology
+  date: '2021-09-01'
+  link: https://doi.org/grsgpb
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-021-02469-x/MediaObjects/13059_2021_2469_Fig1_HTML.png?as=webp
+  _cache: 67e1de02e1d8396a990fee4b5d0213130d9a045d361ffed192721cb495f8bb3c
+- id: DOI:10.1371/journal.pcbi.1009670
+  title: 'CoRE-ATAC: A deep learning model for the functional classification of regulatory
+    elements from single cell and bulk ATAC-seq data'
+  authors:
+  - Asa Thibodeau
+  - Shubham Khetan
+  - Alper Eroglu
+  - Ryan Tewhey
+  - Michael L. Stitzel
+  - Duygu Ucar
+  publisher: PLOS Computational Biology
+  date: '2021-12-13'
+  link: https://doi.org/grsgpc
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8699717/bin/pcbi.1009670.g001.jpg
+  _cache: 85dfc7b3fcb4f3e02244febc0bc71f293f9e1144ca967de15afe688eedd47e4d
