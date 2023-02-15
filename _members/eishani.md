@@ -1,7 +1,7 @@
 ---
 name: Eishani Sokolowski
-image: ""
-description: Research Data Analyst
+image: "images/eishani.jpeg"
+description: Predoctoral Associate
 role: phd
 ---
 
