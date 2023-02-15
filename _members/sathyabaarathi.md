@@ -1,5 +1,5 @@
 ---
-name: "Sathyabaarathi Ravichandran"
+name: "Sathyabaarathi Ravichandran, PhD"
 image: "images/Sathya.jpeg"
 description: "Postdoctoral Associate "
 role: postdoc
