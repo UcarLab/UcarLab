@@ -1,6 +1,6 @@
 ---
 name: "Sathyabaarathi Ravichandran"
-image: ""
+image: "images/sathya.jpeg"
 description: "Postdoctoral Associate "
 role: postdoc
 links:
