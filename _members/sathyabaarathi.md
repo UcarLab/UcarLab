@@ -8,4 +8,4 @@ links:
   github: ""
 ---
 
- I am a computational immunologist, specifically interested in understanding immune system's response to acute infections and immunization. Presently, my work entails analyzing serological, scRNAseq, and snATC-seq data to identify baseline correlates of pneumococcal and seasonal influenza vaccine responses in older adults.
+I'm a trained computational immunologist, interested in understaning the immune system's response to infections and vaccinations. My current research involves analysing systems serological, scRNAseq, and snATC-seq data to identify pre-vaccination correlates of  pneumococcal and seasonal influenza vaccines in older adults. Ultimately, I aim to discover blood biomarkers that can effectively differentiate between vaccine responders and non-responders.
