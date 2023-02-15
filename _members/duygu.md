@@ -1,6 +1,6 @@
 ---
 name: Duygu Ucar, PhD
-image: ""
+image: "images/duygu.jpeg"
 description: "Associate Professor"
 role: pi
 links:
