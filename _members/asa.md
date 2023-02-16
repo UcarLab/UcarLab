@@ -2,7 +2,7 @@
 name: Asa Thibodeau, PhD
 image: "images/asa.jpg"
 description: Associate Computational Scientist
-role: Computational Scientist
+role: staff
 ---
 
 PhD: University of Connecticut, Computer Science
