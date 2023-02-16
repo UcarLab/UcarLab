@@ -1,10 +1,10 @@
 ---
 name: Asa Thibodeau, PhD
-image: ""
+image: "images/asa.jpg"
 description: Associate Computational Scientist
-role: postdoc
+role: Computational Scientist
 ---
 
 PhD: University of Connecticut, Computer Science
 
-Asa is developing machine learning models including deep learning methods to integrate and infer regulatory function of genomic and epigenomics data to uncover regulatory functions of noncoding regulatory regions and their gene targets
+Asa is currently researching immune responses to respiratory viruses via single cell transcriptomes and epigenomes. She is experienced in data integration, machine learning, and method development.
